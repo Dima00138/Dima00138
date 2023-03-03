@@ -8,58 +8,18 @@
 ```javascript
 const Dmitry = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C++"],
+    code: ["Javascript", "C++", "C#"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
-            js: ["React", "jQuery"],
+            js: ["React", "Redux", "TypeScript", "jQuery"],
             HTML = true,
             CSS = true,
             SASS = true,
         },
-        databases: ["MySql"]
+        databases: ["MySql", "MS SQL Server", "Oracle Database", "Cloud firestore"]
     },
     currentFocus: "Study practice and study again",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
----
-<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-80%20hrs%2023%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Minsk
-
-💬 Programming Languages: 
-JavaScript               8 hrs 52 mins       █████████████████░░░░░░░░   76.32% 
-HTML                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   13.06% 
-CSS                      1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   10.62% 
-
-🔥 Editors: 
-VS Code                  11 hrs 37 mins      █████████████████████████   100.0% 
-WebStrom                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Windows                  11 hrs 37 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
