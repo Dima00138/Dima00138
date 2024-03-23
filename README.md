@@ -8,8 +8,8 @@
 ```javascript
 const Dmitry = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C++", "C#"],
-    askMeAbout: ["web dev", "tech"],
+    code: ["Javascript", "Kotlin", "Flutter", "C#"],
+    askMeAbout: ["web dev", "tech", "android dev"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux", "TypeScript", "jQuery"],
@@ -17,7 +17,11 @@ const Dmitry = {
             CSS = true,
             SASS = true,
         },
-        databases: ["MySql", "MS SQL Server", "Oracle Database", "Cloud firestore"]
+        backEnd: {
+            nodeJS = true,
+            prisma = true,
+        },
+        databases: ["MySql", "PostgreSQL", "MS SQL Server", "Oracle Database", "Cloud firestore"]
     },
     currentFocus: "Study practice and study again",
     funFact: "There are two ways to write error-free programs; only the third one works"
